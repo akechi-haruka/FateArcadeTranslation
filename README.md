@@ -22,8 +22,10 @@ This contains full translations for:
 
 Translations for items, servant and craft essence flavour texts are server sided.
 
+Files that have not been touched are not in this repo.
+
 ## Relevant tools if you want to contribute
 
-.farc packing/unpacking: https://github.com/akechi-haruka/MikuMikuLibrary
-.txp textures packing/repacking: https://github.com/akechi-haruka/TxpConvert
-.bin files are just text files
+* .farc packing/unpacking: https://github.com/akechi-haruka/MikuMikuLibrary
+* .txp textures packing/repacking: https://github.com/akechi-haruka/TxpConvert
+* .bin files are just text files
