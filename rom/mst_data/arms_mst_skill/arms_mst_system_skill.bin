@@ -1,0 +1,6 @@
+data_list.length=1
+data_list.revision=20995
+data_list.version=1
+system_skill.0.id=1
+system_skill.0.skill_id=9000001
+system_skill.0.trigger=RESPAWN

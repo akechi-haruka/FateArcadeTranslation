@@ -1,0 +1,13 @@
+data_list.length=5
+data_list.revision=20995
+data_list.version=0
+skill_optional_info.0.others_skill_popup_type=FORCE_FRIEND
+skill_optional_info.0.skill_unique_id=6113000
+skill_optional_info.1.others_skill_popup_type=FORCE_FRIEND
+skill_optional_info.1.skill_unique_id=6114000
+skill_optional_info.2.others_skill_popup_type=FORCE_FRIEND
+skill_optional_info.2.skill_unique_id=6115000
+skill_optional_info.3.others_skill_popup_type=FORCE_FRIEND
+skill_optional_info.3.skill_unique_id=6126000
+skill_optional_info.4.others_skill_popup_type=FORCE_FRIEND
+skill_optional_info.4.skill_unique_id=6128000
